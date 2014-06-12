@@ -1,6 +1,6 @@
 {
   "name": "nodexml",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "parse xml to json object and json object to xml",
   "main": "index.js",
   "scripts": {
