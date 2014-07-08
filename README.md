@@ -28,7 +28,7 @@ Ex:
 ```
 If dog is multiple, structure will be array.If is single, structure will be single object.
 ```
-Use dogs.dog = [].concat(dogs.dog) to ensure dog is an array.
+Use dogs.dog = [].concat(dogs.dog || []) to ensure dog is an array.
 ```
 
 Demo:
